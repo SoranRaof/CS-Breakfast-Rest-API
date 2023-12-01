@@ -1,0 +1,12 @@
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/bin/Debug/net7.0/Breakfast.Contracts.deps.json
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/bin/Debug/net7.0/Breakfast.Contracts.dll
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/bin/Debug/net7.0/Breakfast.Contracts.pdb
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.csproj.AssemblyReference.cache
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.AssemblyInfoInputs.cache
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.AssemblyInfo.cs
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.csproj.CoreCompileInputs.cache
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.dll
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/refint/Breakfast.Contracts.dll
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/Breakfast.Contracts.pdb
+/Users/soranraof/projects/Breakfast/Breakfast.Contracts/obj/Debug/net7.0/ref/Breakfast.Contracts.dll
